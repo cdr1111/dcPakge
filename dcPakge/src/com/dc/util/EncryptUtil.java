@@ -1,4 +1,4 @@
-package com.dc.internal.util;
+package com.dc.util;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

@@ -1,4 +1,4 @@
-package com.dc.internal.util.date;
+package com.dc.util.date;
 
 import java.text.ParsePosition;
 import java.text.SimpleDateFormat;

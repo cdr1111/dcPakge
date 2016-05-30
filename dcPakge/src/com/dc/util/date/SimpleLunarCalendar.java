@@ -1,4 +1,4 @@
-package com.dc.internal.util.date;
+package com.dc.util.date;
 
 import java.util.Calendar;
 import java.util.Date;
